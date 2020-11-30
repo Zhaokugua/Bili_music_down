@@ -2,7 +2,7 @@
 bilibili音乐下载
 ---
 注意：bilibili音乐不是b站音频区！主页在这里：https://www.bilibili.com/audio/home
-## 采用易语言编写
+## 采用易语言5.6编写
 之前闲的没事瞎写着玩的，易语言的东西，，看看就行
 ## 功能简介
 + 基础的bilibili音乐下载
