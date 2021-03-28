@@ -21,4 +21,4 @@ bilibili音乐下载
 
 ## 下载
 下载发布版本，请到release页面：
-https://github.com/Zhaokugua/Bili_music_down/release
+https://github.com/Zhaokugua/Bili_music_down/releases
