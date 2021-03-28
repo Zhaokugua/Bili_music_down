@@ -18,3 +18,7 @@ bilibili音乐下载
 ## 一些注解
 + 里面部分代码使用了精易模块的库。由于精易模块比较大，所以我只把必备的东西放进去了。
 + 简易版的ffmpeg放在了图片资源库里面，用于完成音频格式的转换
+
+## 下载
+下载发布版本，请到release页面：
+https://github.com/Zhaokugua/Bili_music_down/release
